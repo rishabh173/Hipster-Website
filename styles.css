@@ -125,10 +125,10 @@ h3{
 
 }
 .ourTeam{
-	background: url(back4.jpg);
+	background: url(teamback.jpg);
 	//height: 550px;
 	//padding: 50px;
-	color: white;
+	color: black;
 	font-family: Century Gothic;
 }
 h4{
