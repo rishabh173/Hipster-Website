@@ -94,6 +94,9 @@ section{
 	padding: 100px;
 	
 }
+#whyus .container{
+	text-align: left;
+}
 .testimonial{
 
 	//height: 300px;
@@ -151,4 +154,14 @@ footer span{
 	.cover-text p{
 		font-size: 20px;
 	}
+	blockquote{
+		font-size: 20px;
+	}
+	blockquote cite{
+		font-size: 15px;
+	}
+	#whyus .container, .ourTeam .container{
+		padding-left: 2px;
+		padding-right: 2px;
+	
 }
