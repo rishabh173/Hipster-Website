@@ -16,7 +16,9 @@ img{
 	border-radius: 100%;
 	padding: 10px;
 }
-
+html{
+	scroll-behavior: smooth;
+}
 html,body,
 .cover{
 	height: 100%;
